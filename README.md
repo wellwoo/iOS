@@ -1,5 +1,3 @@
-# iOS Themes
-
-will update this later with [this](https://github.com/winneon/tutorial-repository) tutorial
-
-<iframe src="https://discordapp.com/widget?id=335796172755042304&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+# WellWoo
+<img src="https://i.imgur.com/tGCNGVN.jpg">
+<p>Hello! This is where you can find all our sample work, for teaching new designers how to theme the jailbroken iOS device using Anemone and WinterBoard.</p>
